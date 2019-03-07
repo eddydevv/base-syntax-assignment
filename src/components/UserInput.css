@@ -1,0 +1,8 @@
+.UserInput {
+  padding-top: 15%;
+}
+.UserInput input {
+  text-align: center;
+  font-size: 1.3em;
+  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
